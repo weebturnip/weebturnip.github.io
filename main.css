@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  font-size: 3em;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+a:hover {
+  color: silver;
+  border: 1px solid black;
+}
